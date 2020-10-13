@@ -5,7 +5,7 @@ how to use?
 .
 1. compile in visual studio
 
-2. execude cmd
+2. execute cmd
 
 3. cd <local address where 'Indexer.exe' exist>
 
